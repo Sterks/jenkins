@@ -1,3 +1,0 @@
-node(){
-  stage("test")
-}

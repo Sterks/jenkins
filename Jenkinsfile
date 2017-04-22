@@ -1,2 +1,3 @@
-node
-  stage "test"
+node(){
+  stage("test")
+}
